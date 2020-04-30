@@ -32,7 +32,7 @@
     "bootstrap": "^3.3.7",
     "core-js": "^2.4.1",
     "immutable": "^3.8.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "ng-recaptcha": "^2.0.2",
     "ng2-toasty": "^4.0.0",
     "ng2-ui-auth": "^6.1.4",
